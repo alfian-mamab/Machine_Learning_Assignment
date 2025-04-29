@@ -2,6 +2,10 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/9ebe1846-8ca9-45bd-9a4a-856029e8666c)
+
+---
+
 ## Assignment
 This assignment requires applying various machine learning techniques to a diabetes dataset with clinical features such as age, BMI, glucose levels, and pregnancy history. The objective is to predict diabetes diagnosis (positive or negative) by building models like logistic regression, Naïve Bayes, KNN, classification trees, random forests, boosted trees, and SVMs. Students must split the data, evaluate models on a test set, and compare their performances. <br />
 Additionally, the assignment involves selecting the two best models, addressing model uncertainty, and suggesting a method to combine classifiers. Unsupervised learning tasks like K-means and hierarchical clustering are also required, analyzing clustering results for positive and negative diagnoses separately. A clear and concise final report, limited to 12 pages, is expected. <br />
